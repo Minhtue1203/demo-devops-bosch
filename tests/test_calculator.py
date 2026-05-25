@@ -11,8 +11,7 @@ sys.path.append(
     )
 )
 
-from calculator import add, divide
-from calculator import add, divide
+from calculator import add, divide, factorial, multiply
 
 
 def test_add():
